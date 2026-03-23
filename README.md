@@ -1,5 +1,9 @@
 # :wave: The Basics of GitHub 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cee-ml-course/lab01-template/blob/main/lab01_intro_to_python.ipynb
+)
+
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
