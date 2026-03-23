@@ -1,7 +1,7 @@
 # :wave: The Basics of GitHub 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ml-in-cee/intro-to-course-sangermd/lab01_intro_to_python.ipynb
+https://colab.research.google.com/github/ml-in-cee/intro-to-course-sangermd/blob/main/lab01_intro_to_python.ipynb
 )
 
 ## 🤓 Course overview and learning outcomes 
